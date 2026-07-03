@@ -124,3 +124,4 @@ Developed by JamilLabs
 📜 License
 
 This project is for educational and personal use. You are free to modify and improve it.
+Updated project documentation for better clarity.
